@@ -1,0 +1,31 @@
+@media screen and (max-width:550px){
+    .title{
+        height: 4rem;
+        width: 27rem;
+    }
+}
+@media screen and (max-width:860px){
+    .nav{
+        display: none;
+    }
+    .select{
+        display: flex;
+        justify-content: left;
+        color: rgb(214, 214, 214);
+        border: none;
+        background-color: rgba(56, 8, 8, 0);
+        text-align-last: right;  
+        font-size: 12.5px;
+    }
+    select option{
+        background-color: rgba(0, 0, 0, 0.925);
+    }
+    .browsers{
+        display: none;
+    }  
+}
+@media screen and (min-width:1000px){ 
+    .synopsis{
+        width: 50%;
+    } 
+}
