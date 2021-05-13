@@ -1,8 +1,8 @@
-# Netflix Clone
+# Netflix Clone :popcorn::movie_camera:
 
 
 
-#### Responsive Netflix page clone, build using HTML5, CSS3 and JavaScript.
+#### Responsive Netflix page clone, build using HTML5, CSS3 and JavaScript. 
 
 - Bootcamp HTML Web Developer - Digital Innovation One.
 
